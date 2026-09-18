@@ -1,5 +1,13 @@
 import mongoose from 'mongoose';
+import dns from 'dns';
 import config from '../config';
+
+// Fallback to reliable public DNS resolvers if local system DNS blocks SRV lookups (common on Windows)
+try {
+  dns.setServers(['8.8.8.8', '1.1.1.1']);
+} catch {
+  // Ignore if permissions or environment restrict setting DNS servers
+}
 
 let isConnected = false;
 
@@ -10,6 +18,7 @@ export async function connectDB(): Promise<typeof mongoose> {
 
   try {
     const conn = await mongoose.connect(config.mongodbUri, {
+      dbName: 'ecointel',
       serverSelectionTimeoutMS: 5000,
     });
 

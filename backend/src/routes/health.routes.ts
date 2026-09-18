@@ -1,4 +1,5 @@
 import { Router, Request, Response } from 'express';
+import mongoose from 'mongoose';
 import { HealthResponse } from '../types';
 
 export const healthRouter = Router();
@@ -8,5 +9,6 @@ healthRouter.get('/health', (_req: Request, res: Response<HealthResponse>) => {
     status: 'ok',
     timestamp: new Date().toISOString(),
     uptime: Math.floor(process.uptime()),
+    database: mongoose.connection.name,
   });
 });
