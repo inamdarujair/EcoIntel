@@ -155,7 +155,7 @@ chatRouter.post(
       // 6. Generate context-aware assistant reply (Orchestrating Phase 8/9/10)
       let assistantReply = "";
       
-      const finalContextObj = currentContextDoc ? currentContextDoc.toObject() : {};
+      const finalContextObj: any = currentContextDoc ? currentContextDoc.toObject() : {};
 
       if (hasExtractedFields && currentContextDoc) {
         // We have environmental context to evaluate
