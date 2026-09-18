@@ -1,0 +1,23 @@
+# Render deployment configuration for EcoIntel backend
+# https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: ecointel-backend
+    runtime: node
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      # Set the following via Render Dashboard > Environment:
+      # - MONGODB_URI       (MongoDB Atlas connection string)
+      # - GEMINI_API_KEY    (Google Gemini API key)
+      # - CORS_ORIGIN       (production frontend URL, e.g. https://ecointel.vercel.app)
+    healthCheckPath: /api/health
+    autoDeploy: true

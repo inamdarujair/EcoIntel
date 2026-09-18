@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Recarbonizing Global Soils: A Technical Manual of Recommended Management Practices",
+    "sourceUrl": "https://doi.org/10.4060/cb6595en",
+    "authors": ["Food and Agriculture Organization of the United Nations (FAO)", "Global Soil Partnership (GSP)"],
+    "organization": "FAO",
+    "year": 2021,
+    "documentType": "guidance",
+    "topics": ["soil health", "soil organic carbon", "sustainable land management"],
+    "environmentalVariables": ["soil.organicCarbon", "soil.moisture", "soil.ph"],
+    "summary": "The Food and Agriculture Organization and Global Soil Partnership outline standardized sustainable soil management practices designed to maintain and sequester soil organic carbon (SOC) across agricultural landscapes. The manual demonstrates that increasing soil organic matter directly enhances soil aggregate stability, cation exchange capacity, and macro-porosity.\n\nCritically for drylands and moisture-stressed ecosystems, elevated SOC enhances plant-available water capacity and improves hydraulic conductivity, reducing soil surface crusting and erosion vulnerability. The technical guidance outlines how conservation tillage, residue retention, cover cropping, and rotational grazing contribute to replenishing depleted carbon pools across degraded topsoils.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified via FAO Knowledge Repository DOI 10.4060/cb6595en. Core reference for RECSOIL initiative."
+    }
+  },
+  {
+    "title": "Special Report on Climate Change and Land (SRCCL)",
+    "sourceUrl": "https://www.ipcc.ch/srccl/",
+    "authors": ["Intergovernmental Panel on Climate Change (IPCC)"],
+    "organization": "IPCC",
+    "year": 2019,
+    "documentType": "assessment",
+    "topics": ["climate change", "desertification", "land degradation", "water stress"],
+    "environmentalVariables": ["climate.rainfall", "climate.temperature", "soil.moisture", "humanImpact.deforestation"],
+    "summary": "The IPCC Special Report examines the bidirectional relationship between climate change, land degradation, and desertification. Warming over land has increased at nearly twice the global average rate, amplifying frequency and intensity of agricultural droughts and dry spells in drylands.\n\nIncreased evapotranspiration combined with erratic rainfall cycles accelerates vegetative loss and soil biological decline. When vegetative cover is compromised, topsoil degradation accelerates via wind and water erosion, forming positive feedback loops that exacerbate regional aridification. The assessment emphasizes that sustainable land management, soil moisture conservation, and agroecological restoration are critical for climate resilience.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified official IPCC publication URL https://www.ipcc.ch/srccl/. Authored by 107 international experts."
+    }
+  },
+  {
+    "title": "Habitat Fragmentation and Its Lasting Impact on Earth's Ecosystems",
+    "sourceUrl": "https://doi.org/10.1126/sciadv.1500052",
+    "authors": ["Nick M. Haddad", "Lars A. Brudvig", "Jean Clobert", "K. F. Davies", "Andrew Gonzalez", "Robert D. Holt", "Thomas E. Lovejoy"],
+    "organization": "North Carolina State University / Science Advances",
+    "year": 2015,
+    "documentType": "research-paper",
+    "topics": ["habitat fragmentation", "biodiversity", "landscape connectivity", "extinction debt"],
+    "environmentalVariables": ["landUse.fragmentation", "biodiversity.speciesRichness", "biodiversity.habitatDiversity"],
+    "summary": "Synthesizing long-term experiments spanning five continents and 35 years, this study evaluates the structural consequences of global habitat fragmentation. An analysis of worldwide forest cover reveals that approximately 70% of remaining global forest area lies within 1 kilometer of an edge.\n\nThe synthesis proves that habitat fragmentation reduces biodiversity across taxa by 13% to 75%, impairing core ecosystem functions including nutrient retention and biomass productivity. The negative impacts intensify continuously over time rather than stabilizing, highlighting that isolated patches accumulate severe extinction debts that can only be alleviated through landscape-scale connectivity restoration.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified peer-reviewed publication in Science Advances (Vol 1, Issue 2, e1500052). Real long-term meta-analysis."
+    }
+  },
+  {
+    "title": "Reevaluating the Effects of Soil Organic Matter on Available Water-Holding Capacity",
+    "sourceUrl": "https://doi.org/10.2489/jswc.73.4.411",
+    "authors": ["Z. Libohova", "C. Seybold", "D. Wysocki", "S. Wills", "P. Schoeneberger", "P. R. Owens"],
+    "organization": "USDA Natural Resources Conservation Service (NRCS)",
+    "year": 2018,
+    "documentType": "research-paper",
+    "topics": ["soil organic matter", "water-holding capacity", "soil moisture", "soil texture"],
+    "environmentalVariables": ["soil.organicCarbon", "soil.moisture"],
+    "summary": "Using the extensive National Cooperative Soil Survey Characterization Database, the authors reassess how soil organic matter (SOM) interacts with texture and bulk density to govern available water-holding capacity (AWHC). While SOM positively correlates with water retention, the magnitude of the effect varies significantly across soil textural classes.\n\nThe empirical findings demonstrate that increasing SOM provides the most substantial relative hydrologic gains in coarse-textured sandy and loamy soils by increasing micro-porosity. In finer silt and clay soils, SOM improves aggregate stability and infiltration capacity, but its direct contribution to water retention at field capacity is co-determined by mineralogical composition.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Journal of Soil and Water Conservation (73(4): 411-420). Key USDA-NRCS national database analysis."
+    }
+  },
+  {
+    "title": "Soil Carbon Sequestration Impacts on Global Climate Change and Food Security",
+    "sourceUrl": "https://doi.org/10.1126/science.1097396",
+    "authors": ["Rattan Lal"],
+    "organization": "The Ohio State University / Science",
+    "year": 2004,
+    "documentType": "research-paper",
+    "topics": ["carbon sequestration", "soil fertility", "food security", "restoration"],
+    "environmentalVariables": ["soil.organicCarbon", "soil.ph", "soil.moisture"],
+    "summary": "This seminal review establishes the physiological and agronomic mechanisms by which replenishing the soil organic carbon pool in degraded croplands enhances ecological resilience. Historical land misuse and plow-based agriculture have depleted 50% to 66% of baseline terrestrial soil carbon pools.\n\nRestoring SOC enhances nutrient availability, cation exchange capacity, microbial biomass, and structural aggregation. Lal demonstrates that agricultural adoption of conservation tillage, agroforestry, manuring, and water management restores degraded soil profiles, sequestering atmospheric carbon while reversing desertification trajectories in semi-arid and tropical ecologies.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Science (Vol 304, pp 1623-1627). Authored by World Food Prize laureate Rattan Lal."
+    }
+  },
+  {
+    "title": "Global Ecosystem Thresholds Driven by Aridity",
+    "sourceUrl": "https://doi.org/10.1126/science.aay5958",
+    "authors": ["Miguel Berdugo", "Manuel Delgado-Baquerizo", "Santiago Soliveres", "Rocío Hernández-Clemente", "Yue Zhao", "Fernando T. Maestre"],
+    "organization": "Science",
+    "year": 2020,
+    "documentType": "research-paper",
+    "topics": ["drylands", "aridity thresholds", "plant productivity", "desertification"],
+    "environmentalVariables": ["climate.rainfall", "climate.temperature", "soil.moisture", "biodiversity.speciesRichness"],
+    "summary": "Analyzing global empirical data from over 50,000 dryland locations across the globe, this study identifies distinct non-linear thresholds where ecosystems undergo abrupt structural and functional collapse as aridity increases under climate change.\n\nThe authors document a cascade of three critical thresholds: first, an abrupt decline in plant productivity occurs at an aridity index of approximately 0.54; second, a structural decoupling of soil nutrient cycles (nitrogen and carbon decline relative to phosphorus) occurs at 0.70; and third, drastic drops in perennial plant cover and species richness occur at 0.80. The findings underscore that aridification damages biodiversity through rapid step-changes rather than gradual shifts.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Science (Vol 367, Issue 6479, pp 787-790). Leading empirical study on non-linear dryland thresholds."
+    }
+  },
+  {
+    "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
+    "sourceUrl": "https://www.ipbes.net/global-assessment",
+    "authors": ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)"],
+    "organization": "IPBES",
+    "year": 2019,
+    "documentType": "assessment",
+    "topics": ["biodiversity loss", "land-use change", "ecosystem health", "species extinction"],
+    "environmentalVariables": ["biodiversity.speciesRichness", "biodiversity.habitatDiversity", "landUse.type", "humanImpact.pollution"],
+    "summary": "The IPBES Global Assessment represents the most comprehensive global evaluation of biodiversity status and trends ever conducted. It establishes that approximately one million plant and animal species are threatened with extinction, with current extinction rates orders of magnitude above pre-human baselines.\n\nThe report identifies land-use change—primarily agricultural expansion and intensification—as the primary direct driver of terrestrial biodiversity decline, followed by direct exploitation, climate change, and pollution. The authors conclude that conventional conservation alone is insufficient without transformative systemic changes integrating ecological restoration, agroecology, and landscape connectivity across working lands.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified official publication URL https://www.ipbes.net/global-assessment. Approved by 132 governments in 2019."
+    }
+  },
+  {
+    "title": "Creation of Forest Edges Has a Global Impact on Forest Vertebrates",
+    "sourceUrl": "https://doi.org/10.1038/nature24457",
+    "authors": ["Marion Pfeifer", "Véronique Lefebvre", "Carlos A. Peres", "Claudia Banks-Leite", "Robert M. Ewers"],
+    "organization": "Nature",
+    "year": 2017,
+    "documentType": "research-paper",
+    "topics": ["edge effects", "forest fragmentation", "vertebrate biodiversity", "microclimate"],
+    "environmentalVariables": ["landUse.fragmentation", "biodiversity.speciesRichness", "landUse.type"],
+    "summary": "Quantifying edge impacts across 1,673 vertebrate species worldwide, this research models how structural edges created by deforestation alter animal communities across the tropics and temperate zones. The study finds that 85% of species abundances are systematically influenced by proximity to forest edges.\n\nForest-core species, which represent a disproportionate share of threatened and IUCN Red Listed taxa, exhibit severe population drops within 200 to 400 meters of high-contrast forest boundaries. Altered microclimate—such as elevated temperature, reduced ambient humidity, and increased desiccation—penetrates deep into fragmented canopies, driving habitat loss far beyond the boundary of actual land clearing.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Nature (551, 187-191). Global modeling of edge effect penetration and vertebrate responses."
+    }
+  },
+  {
+    "title": "A Meta-Analytic Review of Corridor Effectiveness",
+    "sourceUrl": "https://doi.org/10.1111/j.1523-1739.2010.01450.x",
+    "authors": ["L. Gilbert-Norton", "R. Wilson", "J. R. Stevens", "K. H. Beard"],
+    "organization": "Conservation Biology",
+    "year": 2010,
+    "documentType": "research-paper",
+    "topics": ["ecological corridors", "habitat connectivity", "species movement", "gene flow"],
+    "environmentalVariables": ["landUse.fragmentation", "biodiversity.speciesRichness", "biodiversity.habitatDiversity"],
+    "summary": "This meta-analysis examines 78 controlled experiments across 35 independent studies to determine whether structural ecological corridors increase animal and plant movement between isolated habitat patches. The statistical synthesis confirms that corridors increase inter-patch movement by approximately 50% compared to unconnected fragments.\n\nThe effectiveness of corridors is documented across multiple taxonomic groups, with strong positive responses in non-avian vertebrates, terrestrial invertebrates, and plant propagules. The review underscores that maintaining natural linear landscape features and establishing stepping-stone vegetation corridors significantly reduces inbreeding depression and local extinction risks in agricultural matrices.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Conservation Biology (24(3): 660-668). Standard quantitative meta-analysis on wildlife corridor efficacy."
+    }
+  },
+  {
+    "title": "Worldwide Decline of the Entomofauna: A Review of Its Drivers",
+    "sourceUrl": "https://doi.org/10.1016/j.biocon.2019.01.020",
+    "authors": ["Francisco Sánchez-Bayo", "Kris A. G. Wyckhuys"],
+    "organization": "Biological Conservation",
+    "year": 2019,
+    "documentType": "research-paper",
+    "topics": ["insect decline", "pesticide pollution", "ecosystem stability", "pollinator loss"],
+    "environmentalVariables": ["humanImpact.pollution", "biodiversity.speciesRichness", "landUse.type"],
+    "summary": "Reviewing 73 historical monitoring studies from across the globe, the authors evaluate the magnitude and drivers of insect biodiversity loss. Terrestrial insect biomass is declining at precipitous annual rates across diverse geographic biomes, threatening foundational ecological services including pollination, pest control, and nutrient cycling.\n\nThe authors rank primary anthropogenic drivers in order of impact: first, habitat loss and conversion to intensive agriculture; second, chemical pollution driven by synthetic insecticides and fertilizers; third, biological pathogens; and fourth, climate change. The synthesis calls for an urgent transition to agroecological farming models that eliminate prophylactic pesticide use and restore insect-friendly habitats within farm borders.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Biological Conservation (232: 8-27). Highly cited review documenting chemical pollution drivers."
+    }
+  },
+  {
+    "title": "Spreading Dead Zones and Consequences for Marine and Aquatic Ecosystems",
+    "sourceUrl": "https://doi.org/10.1126/science.1156401",
+    "authors": ["Robert J. Diaz", "Rutger Rosenberg"],
+    "organization": "Science",
+    "year": 2008,
+    "documentType": "research-paper",
+    "topics": ["nutrient pollution", "eutrophication", "water quality", "aquatic biodiversity"],
+    "environmentalVariables": ["humanImpact.pollution", "biodiversity.speciesRichness"],
+    "summary": "This global analysis investigates the proliferation of hypoxic 'dead zones' across estuarine, coastal, and inland aquatic environments caused by excessive agricultural nutrient discharge. Nitrogen and phosphorus runoff from over-fertilized croplands stimulates massive algal blooms that consume dissolved oxygen upon decomposition.\n\nHypoxia severely disrupts aquatic benthic food webs, eliminates sensitive macroinvertebrates and fish populations, and simplifies biodiversity into depauperate communities dominated by tolerant microbes. The authors emphasize that watershed-level ecological interventions—including nutrient management, cover crops, and vegetated riparian buffer strips—are essential to curb non-point source nutrient pollution at the terrestrial source.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Science (Vol 321, Issue 5891, pp 926-929). Definitive synthesis on agricultural nutrient runoff and hypoxia."
+    }
+  },
+  {
+    "title": "Do European Agroforestry Systems Enhance Biodiversity and Ecosystem Services? A Meta-Analysis",
+    "sourceUrl": "https://doi.org/10.1016/j.agee.2016.06.002",
+    "authors": ["M. Torralba", "N. Fagerholm", "P. J. Burgess", "G. Moreno", "T. Plieninger"],
+    "organization": "Agriculture, Ecosystems & Environment",
+    "year": 2016,
+    "documentType": "research-paper",
+    "topics": ["agroforestry", "biodiversity enhancement", "soil conservation", "ecosystem services"],
+    "environmentalVariables": ["soil.organicCarbon", "biodiversity.speciesRichness", "biodiversity.habitatDiversity", "soil.moisture"],
+    "summary": "Synthesizing 365 comparisons from 53 empirical publications, this quantitative meta-analysis compares agroforestry systems (silvopastoral and silvoarable) directly against conventional monoculture agriculture and commercial forestry. Agroforestry consistently provides superior multi-functional ecosystem services.\n\nThe results show significant enhancements in species richness across bird, insect, and plant communities, alongside marked improvements in soil organic matter content, nutrient retention, and erosion control. Integrating perennial woody species into arable land creates stratified vertical habitat niches, improves rainwater infiltration, and moderates microclimatic extremes during severe heat waves.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Agriculture, Ecosystems & Environment (230: 150-161). Quantitative meta-analysis on agroecological benefits."
+    }
+  },
+  {
+    "title": "The Impact of Continuous Living Cover on Soil Hydrologic Properties: A Meta-Analysis",
+    "sourceUrl": "https://doi.org/10.2136/sssaj2017.03.0077",
+    "authors": ["Andrea D. Basche", "Maria S. DeLonge"],
+    "organization": "Soil Science Society of America Journal",
+    "year": 2017,
+    "documentType": "research-paper",
+    "topics": ["cover crops", "soil water storage", "infiltration", "soil moisture"],
+    "environmentalVariables": ["soil.moisture", "soil.organicCarbon", "climate.rainfall"],
+    "summary": "Evaluating empirical field experiments across temperate and sub-tropical farming zones, this meta-analysis quantifies the hydrologic effects of continuous living cover, including winter cover crops and perennial polycultures, on agricultural soil profiles.\n\nThe findings establish that continuous living cover increases water infiltration rates by an average of over 30% compared to fallow ground, while enhancing soil structural macroporosity and aggregate stability. Contrary to concerns regarding excessive soil moisture depletion, cover crops enhance deep soil recharge, mitigate surface runoff, and preserve soil moisture during post-planting dry spells by reducing surface evaporation.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Soil Science Society of America Journal (81(5): 1179-1190). Meta-analysis on cover crop soil hydrology."
+    }
+  },
+  {
+    "title": "Does Intercropping Enhance Yield Stability in Arable Crop Production? A Meta-Analysis",
+    "sourceUrl": "https://doi.org/10.1016/j.eja.2017.08.011",
+    "authors": ["M. Raseduzzaman", "E. S. Jensen"],
+    "organization": "European Journal of Agronomy",
+    "year": 2017,
+    "documentType": "research-paper",
+    "topics": ["intercropping", "yield stability", "crop diversification", "climate resilience"],
+    "environmentalVariables": ["biodiversity.habitatDiversity", "soil.moisture", "climate.rainfall"],
+    "summary": "This meta-analysis evaluates the agronomic and ecological performance of intercropping systems relative to sole crop monocultures across varied climatic zones. By compiling multi-year field trials, the authors investigate whether species diversification stabilizes crop yields under climatic variability.\n\nThe analysis demonstrates that cereal-grain legume intercropping systems exhibit significantly lower coefficient of variation in yield, indicating superior yield stability compared to sole monocultures. Complementary root distribution and asynchronous water and nutrient uptake between companion species facilitate efficient resource partitioning, buffering agricultural output against erratic rainfall patterns and dry spell shocks.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in European Journal of Agronomy (91: 25-33). Authoritative meta-analysis on intercropping resilience."
+    }
+  },
+  {
+    "title": "Biodiversity Increases the Resistance of Ecosystem Productivity to Climate Extremes",
+    "sourceUrl": "https://doi.org/10.1038/nature15374",
+    "authors": ["Forest Isbell", "Dylan Craven", "John Connolly", "Michel Loreau", "Bernhard Schmid", "David Tilman"],
+    "organization": "Nature",
+    "year": 2015,
+    "documentType": "research-paper",
+    "topics": ["biodiversity resistance", "climate extremes", "ecosystem productivity", "grasslands"],
+    "environmentalVariables": ["biodiversity.speciesRichness", "climate.rainfall", "climate.temperature"],
+    "summary": "Analyzing 46 long-term grassland plant diversity experiments across North America and Europe, the authors test whether species-rich ecosystems better maintain primary productivity during extreme drought and wet events compared to species-poor monocultures.\n\nThe study demonstrates that biodiversity significantly increases ecosystem resistance to climate extremes: communities containing high plant species richness (16–32 species) suffered only about half the productivity deviation (~25%) of low-diversity monocultures (~50%) during drought events. While diversity did not alter post-drought recovery speed, it prevented disastrous collapse during climate shocks via portfolio effects and functional trait redundancy.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in Nature (526, 574-577). Benchmark experimental synthesis on biodiversity buffering climate shocks."
+    }
+  },
+  {
+    "title": "Making Peace with Nature: A Scientific Blueprint to Tackle the Climate, Biodiversity and Chemical Emergencies",
+    "sourceUrl": "https://wedocs.unep.org/handle/20.500.11822/34948",
+    "authors": ["United Nations Environment Programme (UNEP)"],
+    "organization": "UNEP",
+    "year": 2021,
+    "documentType": "assessment",
+    "topics": ["ecosystem degradation", "chemical pollution", "planetary boundaries", "restoration"],
+    "environmentalVariables": ["humanImpact.pollution", "humanImpact.deforestation", "biodiversity.speciesRichness"],
+    "summary": "Synthesizing global environmental assessments across international conventions, UNEP provides an integrated blueprint for addressing the interlinked crises of climate change, biodiversity loss, and pervasive chemical pollution. Human economic systems degrade natural capital at rates far exceeding regenerative capacity.\n\nThe report emphasizes that agricultural chemical pollution, land-use conversion, and habitat fragmentation act synergistically to erode ecological stability. It outlines concrete technical pathways for sustainable food systems, nature-positive landscape management, circular resource utilization, and ecological restoration targeting degraded terrestrial and freshwater biomes.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified UNEP institutional repository handle 20.500.11822/34948. High-level global synthesis report."
+    }
+  },
+  {
+    "title": "Water Harvesting: A Manual for the Design and Construction of Water Harvesting Schemes for Plant Production",
+    "sourceUrl": "https://www.fao.org/3/u3160e/u3160e00.htm",
+    "authors": ["Will Critchley", "Klaus Siegert"],
+    "organization": "FAO Land and Water Development Division (AGLW)",
+    "year": 1991,
+    "documentType": "guidance",
+    "topics": ["water harvesting", "dryland restoration", "soil moisture", "microcatchments"],
+    "environmentalVariables": ["climate.rainfall", "soil.moisture", "landUse.type"],
+    "summary": "This seminal FAO technical manual provides engineering and ecological design principles for implementing rainfall harvesting schemes in semi-arid and arid agricultural zones where moisture deficit is the primary limiting factor for plant establishment.\n\nThe authors detail microcatchment techniques, including negarim microcatchments, contour ridges, semicircular bunds, and permeable rock dams. By redirecting surface sheet runoff toward concentrated root zones, water harvesting significantly elevates root-zone moisture availability, supports vegetative survival during extended dry periods, halts gully erosion, and enables reforestation and agroforestry in degraded dryland catchments.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified official FAO technical publication AGL/MISC/17/91. Canonical text on semi-arid water harvesting design."
+    }
+  },
+  {
+    "title": "The Role of Riparian Vegetation in Protecting and Improving Chemical Water Quality in Streams",
+    "sourceUrl": "https://doi.org/10.1111/j.1752-1688.2010.00419.x",
+    "authors": ["M. G. Dosskey", "P. Vidon", "N. P. Gurwick", "C. J. Allan", "T. P. Duval", "R. Lowrance"],
+    "organization": "Journal of the American Water Resources Association (JAWRA)",
+    "year": 2010,
+    "documentType": "research-paper",
+    "topics": ["riparian buffers", "water quality", "nutrient filtration", "runoff mitigation"],
+    "environmentalVariables": ["humanImpact.pollution", "landUse.type", "biodiversity.habitatDiversity"],
+    "summary": "This comprehensive synthesis evaluates how vegetated riparian zones buffer aquatic ecosystems against agricultural runoff, excessive nutrient loading, and pesticide contamination. Multi-species riparian buffers composed of deep-rooted trees, shrubs, and dense native grasses serve as vital biogeochemical filters along hydrological pathways.\n\nRoot systems intercept shallow groundwater, facilitating high denitrification rates and plant uptake of dissolved nitrates and phosphorus. Concurrently, surface vegetative resistance physically settles sediment-bound agrochemicals. Beyond water purification, permanent riparian strips establish critical microclimatic refugia and wildlife corridors across fragmented agricultural watersheds.",
+    "sourceVerification": {
+      "verified": true,
+      "verificationNotes": "Verified in JAWRA (46(2): 261-277). Leading review on riparian vegetation biogeochemistry and buffer efficacy."
+    }
+  }
+]
